@@ -2,7 +2,7 @@ file_format: "1"
 id: TP42
 name: TP42
 type: shield
-url: https://github.com/tinyboxxx/zmk-config
+url: https://github.com/qi4373/tp42
 requires: [pro_micro]
 exposes: [i2c_oled]
 features:
